@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '节日', name: '相识纪念日', year: '2022', date: '08-31',
+          type: '节日', name: '一周年纪念日', year: '2022', date: '09-20',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -41,7 +41,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-20' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-20' },
+        { keyword: 'marry_day', date: '2022-08-31' },
       ],
     },
   ],
